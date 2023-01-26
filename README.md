@@ -19,6 +19,9 @@ Explore-US-Bikeshare-Data project details - https://github.com/GitVaidya/pdsnd_g
 
 ### Files used
 The dataset used in the project was provided by Motivate - https://www.motivateco.com
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 Thank you Udacity for providing the course and the necessary material for me to develop this project.
