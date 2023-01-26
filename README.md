@@ -1,7 +1,7 @@
 PDSND Github Project on Explore-US-Bikeshare-Data
 
 ### Date created
-Created on 26 January,2023
+Created on 26 Jan,2023
 
 ### Project Title
 Udacity Programming for Data Science Nanodegree Program Explore-US-Bikeshare-Data
