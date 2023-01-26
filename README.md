@@ -15,7 +15,7 @@ In this project, I'll make use of Git and Collaboration on the project Explore-U
 4. Refactor Code
 5. Merge Branches
 
-Explore-US-Bikeshare-Data project details - https://github.com/GitVaidya/Explore_bikeshare_data-R
+Explore-US-Bikeshare-Data project details - https://github.com/GitVaidya/pdsnd_github/blob/master/Explore_bikeshare_data-R.r
 
 ### Files used
 The dataset used in the project was provided by Motivate - https://www.motivateco.com
